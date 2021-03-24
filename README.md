@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>. I am  A computer science graduate from <a href="https://ewubd.edu">East West University </a>
+I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>. I am  a computer science graduate from <a href="https://ewubd.edu">East West University </a>
 <!--
 **MRajibH/MRajibH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently working on a Machine Learning Project titled " Suicide Attempt Prediction"
