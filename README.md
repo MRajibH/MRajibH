@@ -13,7 +13,7 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>. I am computer s
 - ⚡ Fun fact: I am Half Finnish
 
 
-<h4>EDUCATION<h4>
+<h4>EDUCATION</h4>
 East West University, Bangladesh — B.Sc in CSE <br>
 JANUARY 2017 - MARCH 2021<br>
 CGPA -3.14 / 4.00 | Average mark: >80%<br>
