@@ -12,9 +12,9 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>. I am computer s
 - ⚡ Fun fact: I am Half Finnish
 
 
-<h4 style="background-color:powderblue;">TECHNICAL SKILL</h4>
-  <h5>CORE:</h5><br>
-  <ul>
+<h4>TECHNICAL SKILL</h4>
+<h5>CORE:</h5>
+<ul>
 <li> Programing Language - Python, C++ & C</li>
 <li>Skilled with VCS (Git, Github)</li>
 <li>Handling SQL (Oracle,MySQL) and DBMS</li>
