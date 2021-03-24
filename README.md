@@ -7,10 +7,11 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>. I am computer s
 - 👯 I’m looking to collaborate on Vue Js
 - 🤔 I’m looking for help with d=
 - 💬 Ask me about anything
-- 📫 How to reach me: <ul>
+- 📫 How to reach me: 
+- <ul>
   <li>Email: rajib104.ewubd@gmail.com<br>
   <li> Linkedin: <a href="https://www.linkedin.com/in/MRajibH">Md. Rajib Hawlader</a></li>
-  <li><i class="fa fa-twitter"></i> twitter: <a href="https://www.linkedin.com/in/MRajibH">Md. Rajib Hawlader</a></li>
+  <li> twitter: <a href="https://www.linkedin.com/in/MRajibH">Md. Rajib Hawlader</a></li>
 -  </ul>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Half Finnish
