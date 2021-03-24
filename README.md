@@ -31,11 +31,11 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>. I am  a compute
  <li>Software Design & Development Lifecycle</li>
 <li>Knowledge of Machine Learning Concepts and Algorithms</li>
 </ul>
- <h5>TOOLS & IDE :</h5> <ul>
+ <h5>TOOLS & IDE I USE :</h5> <ul>
 <li> Microsoft Office</li>
 <li>Codeblocks</li>
 <li> Jupyter Notebook</li>
 <li> VSCode</li>
 <li> IBM SPSS</li>
 <li> Sublime Text</li>
- <li>LaTex</li></ul>
+</ul>
