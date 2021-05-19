@@ -15,7 +15,7 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
 <h4>TECHNICAL SKILL</h4>
 <h5>CORE:</h5>
 <ul>
-<li> Programing Language - Python,JavaScript C++ & C</li>
+<li> Programing Language - Python, JavaScript, C++ & C</li>
 <li>Skilled with VCS (Git, Github)</li>
 <li>Handling SQL (Oracle,MySQL) and DBMS</li>
 <li> HTML, CSS</li>
@@ -24,7 +24,7 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
  <h5>FAMILIAR WITH:</h5>  
  <ul>
 <li>PHP</li>
-<li>Django, Bootstrap</li>
+<li>Django, Bootstrap, Flask</li>
 <li>Unix Operating System, Bash</li>
 <li>Computer and Wireless Networking</li>
 <li>Software Quality Assurance & Quality Control</li>
