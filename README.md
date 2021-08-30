@@ -15,7 +15,7 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
 <h4>TECHNICAL SKILL</h4>
 <h5>CORE:</h5>
 <ul>
-<li> Programing Language - Python, JavaScript, C++ & C</li>
+<li> Programing Language - Python, JavaScript, C++, C & PHP</li>
 <li>Skilled with VCS (Git, Github)</li>
 <li>Handling SQL (Oracle,MySQL) and DBMS</li>
 <li> HTML, CSS</li>
@@ -23,7 +23,6 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
 <li> Basic knowledge of Data Structures & Algorithms</li> </ul>
  <h5>FAMILIAR WITH:</h5>  
  <ul>
-<li>PHP</li>
 <li>Django, Bootstrap, Flask</li>
 <li>Unix Operating System, Bash</li>
 <li>Computer and Wireless Networking</li>
@@ -32,7 +31,7 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
 <li>Knowledge of Machine Learning Concepts and Algorithms</li>
 </ul>
  <h5>TOOLS & IDE I USE :</h5> <ul>
-<li> Microsoft Office</li>
+<li>Ubuntu 20.04.2 LTS </li>
 <li>Codeblocks</li>
 <li> Jupyter Notebook</li>
 <li> VSCode</li>
