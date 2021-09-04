@@ -30,8 +30,10 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
  <li>Software Design & Development Lifecycle</li>
 <li>Knowledge of Machine Learning Concepts and Algorithms</li>
 </ul>
+<h5>OS I USE :</h5><ul>
+<li>Ubuntu 20.04.2 LTS </li></ul>
  <h5>TOOLS & IDE I USE :</h5> <ul>
-<li>Ubuntu 20.04.2 LTS </li>
+
 <li>Codeblocks</li>
 <li> Jupyter Notebook</li>
 <li> VSCode</li>
