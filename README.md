@@ -9,7 +9,7 @@ I am <a href="http://mrajibh.bss.design">Md. Rajib Hawlader</a>,  a computer sci
 - 💬 Ask me about anything
 - 📫 How to reach me: rajib104.ewubd@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't remember anything funny right now.
+.
 
 
 <h4>TECHNICAL SKILL</h4>
