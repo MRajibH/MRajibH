@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrajibh" alt="mrajibh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajib_hawlader" target="blank"><img src="https://img.shields.io/twitter/follow/rajib_hawlader?logo=twitter&style=for-the-badge" alt="rajib_hawlader" /></a> </p>
 
-<h3 align="left">Connect with me: <a href="https://rajib.uk"> </a> </h3>
+<h3 align="left">Connect with me: <a href="https://rajib.uk"> Portfolio </a> </h3>
 
 
